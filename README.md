@@ -9,12 +9,12 @@ https://github.com/user-attachments/assets/0a8f5618-b41a-457f-8f65-2f6491c82fe3
 **Table of Contents**
 -------------
 - [Features](#Features)
-- Technologies Used
-- Installation
-- Usage
-- Challenges Faced
-- Future Scope
-- Contributing
+- [Technologies Used](#Technologies Used)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Challenges Faced](#Challenges Faced)
+- [Future Scope](#Future Scope)
+- [Contributing](#Contributing)
 
 
 **Features**
@@ -28,9 +28,7 @@ https://github.com/user-attachments/assets/0a8f5618-b41a-457f-8f65-2f6491c82fe3
 
 **Additional Functionalities**
 
-- Search Functionality: Instantly find formulas using keywords.
 - User-Friendly UI: Designed for minimal distractions and smooth navigation.
-- Modular Design: Easy to update or add new subjects, formulas, or quizzes.
 
 
 **Technologies Used**
