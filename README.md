@@ -5,13 +5,13 @@ Test Tutor is a Java-based educational platform designed to streamline student r
 https://github.com/user-attachments/assets/0a8f5618-b41a-457f-8f65-2f6491c82fe3
 
 📑 **Table of Contents**
-Features
-Technologies Used
-Installation
-Usage
-Challenges Faced
-Future Scope
-Contributing
+-[Features]
+-[Technologies Used]
+-[Installation]
+-[Usage]
+-[Challenges Faced]
+-[Future Scope]
+-[Contributing]
 
 
 🚀**Features**
