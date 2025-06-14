@@ -6,47 +6,47 @@ Test Tutor is a Java-based educational platform designed to streamline student r
 https://github.com/user-attachments/assets/0a8f5618-b41a-457f-8f65-2f6491c82fe3
 
 📑 **Table of Contents**
-
+___________________________________________________________________________________________________________________________________________________________________________________________
 - Features
 
 - Technologies Used
 
--Installation
+- Installation
 
--Usage
+- Usage
 
--Challenges Faced
+- Challenges Faced
 
--Future Scope
+- Future Scope
 
--Contributing
+- Contributing
 
 
 🚀**Features**
 
 **Core Features**
 
--Formula Repository: Quickly access a consolidated list of formulas categorized by subject for easy reference.
+- Formula Repository: Quickly access a consolidated list of formulas categorized by subject for easy reference.
 
--Interactive Quizzes: Reinforce learning by attempting topic-wise quizzes with instant feedback.
+- Interactive Quizzes: Reinforce learning by attempting topic-wise quizzes with instant feedback.
 
--Progress Tracking: Evaluate performance and improve weak areas through quiz analysis.
+- Progress Tracking: Evaluate performance and improve weak areas through quiz analysis.
 
 **Additional Functionalities**
 
--Search Functionality: Instantly find formulas using keywords.
+- Search Functionality: Instantly find formulas using keywords.
 
--User-Friendly UI: Designed for minimal distractions and smooth navigation.
+- User-Friendly UI: Designed for minimal distractions and smooth navigation.
 
--Modular Design: Easy to update or add new subjects, formulas, or quizzes.
+- Modular Design: Easy to update or add new subjects, formulas, or quizzes.
 
 🛠 **Technologies Used**
 
--Java
+- Java
 
--Java Swing (for GUI)
+- Java Swing (for GUI)
 
--OOP (Object-Oriented Programming Principles)
+- OOP (Object-Oriented Programming Principles)
 
 🧩**Installation**
 To set up Test Tutor locally, follow these steps:
@@ -70,11 +70,11 @@ cd test-tutor
 
 🔮 **Future Scope**
 
--Add support for images/diagrams in formulas and quiz questions.
+- Add support for images/diagrams in formulas and quiz questions.
 
--Integrate with a database for better performance and data persistence.
+- Integrate with a database for better performance and data persistence.
 
--Include timed quizzes and leaderboard for competitive learning.
+- Include timed quizzes and leaderboard for competitive learning.
 
 🤝 **Contributing**
 Contributions are welcome! To contribute:
