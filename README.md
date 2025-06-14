@@ -14,7 +14,7 @@ Future Scope
 Contributing
 
 
-🚀** Features**
+🚀**Features**
 
 **Core Features**
 -Formula Repository: Quickly access a consolidated list of formulas categorized by subject for easy reference.
@@ -31,7 +31,7 @@ Contributing
 -Java Swing (for GUI)
 -OOP (Object-Oriented Programming Principles)
 
-🧩** Installation**
+🧩**Installation**
 To set up Test Tutor locally, follow these steps:
 
 1. Clone the repository
