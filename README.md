@@ -7,9 +7,9 @@ https://github.com/user-attachments/assets/0a8f5618-b41a-457f-8f65-2f6491c82fe3
 
 📑 **Table of Contents**
 
-*Features
+- Features
 
--Technologies Used
+- Technologies Used
 
 -Installation
 
