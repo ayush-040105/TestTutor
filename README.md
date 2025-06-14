@@ -9,11 +9,11 @@ https://github.com/user-attachments/assets/0a8f5618-b41a-457f-8f65-2f6491c82fe3
 **Table of Contents**
 -------------
 - [Features](#Features)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#Technologies-Used)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Challenges Faced](#Challenges Faced)
-- [Future Scope](#Future Scope)
+- [Challenges Faced](#Challenges-Faced)
+- [Future Scope](#Future-Scope)
 - [Contributing](#Contributing)
 
 
