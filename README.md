@@ -6,24 +6,18 @@ Test Tutor is a Java-based educational platform designed to streamline student r
 https://github.com/user-attachments/assets/0a8f5618-b41a-457f-8f65-2f6491c82fe3
 
 📑 **Table of Contents**
-___________________________________________________________________________________________________________________________________________________________________________________________
+-------------
 - Features
-
 - Technologies Used
-
 - Installation
-
 - Usage
-
 - Challenges Faced
-
 - Future Scope
-
 - Contributing
 
 
 🚀**Features**
-
+___________________________________________________________________________________________________________________________________________________________________________________________
 **Core Features**
 
 - Formula Repository: Quickly access a consolidated list of formulas categorized by subject for easy reference.
@@ -41,7 +35,7 @@ ________________________________________________________________________________
 - Modular Design: Easy to update or add new subjects, formulas, or quizzes.
 
 🛠 **Technologies Used**
-
+___________________________________________________________________________________________________________________________________________________________________________________________
 - Java
 
 - Java Swing (for GUI)
@@ -49,6 +43,7 @@ ________________________________________________________________________________
 - OOP (Object-Oriented Programming Principles)
 
 🧩**Installation**
+___________________________________________________________________________________________________________________________________________________________________________________________
 To set up Test Tutor locally, follow these steps:
 
 1. Clone the repository
@@ -64,19 +59,19 @@ cd test-tutor
 
 
 📘 **Usage**
+___________________________________________________________________________________________________________________________________________________________________________________________
 1. Click signup on the application and fill all the deatils.
 2. Select the subject and topic to study/revise.
 3. Revise entire topic and then give a small quizz for testing the understanding of the concept
 
 🔮 **Future Scope**
-
+___________________________________________________________________________________________________________________________________________________________________________________________
 - Add support for images/diagrams in formulas and quiz questions.
-
 - Integrate with a database for better performance and data persistence.
-
 - Include timed quizzes and leaderboard for competitive learning.
 
 🤝 **Contributing**
+___________________________________________________________________________________________________________________________________________________________________________________________
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
